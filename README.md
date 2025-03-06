@@ -1,10 +1,10 @@
-# Python String & Operasi Dasarnya
+# 📌 Episode 7: String dan Operasi Dasarnya
 
-# Deskripsi:
+# 📜 Deskripsi:
 
 Dalam pembelajaran ini, kita akan mengenal string sebagai salah satu tipe data utama di Python dan memahami berbagai operasi yang bisa dilakukan untuk memanipulasi string. String sering digunakan dalam pemrograman, terutama dalam pemrosesan teks dan komunikasi antar sistem.
 
-# Point Pembahasan:
+# 🎯 Point Pembahasan:
 
 ## Cara mendeklarasikan string di Python.
 
@@ -35,7 +35,7 @@ Fungsi manipulasi string seperti upper(), lower(), replace(), dan split().
 
 Cara memformat string menggunakan f-string dan .format().
 
-🎯 Kesimpulan
+# 🎯 Kesimpulan
 
 String adalah tipe data penting dalam Python yang digunakan untuk teks.
 
@@ -47,7 +47,7 @@ Fungsi string seperti .upper(), .lower(), .replace(), dan .split() mempermudah m
 
 Format string dengan f-string atau .format() memudahkan penyusunan teks dengan variabel.
 
-💡 Kontribusi
+# 💡 Kontribusi
 
 Jika Anda ingin berkontribusi atau memberikan masukan, silakan buat Pull Request atau buka Issue di repo ini.
 
