@@ -1,16 +1,35 @@
-📌 Python String & Operasi Dasarnya
+# Python String & Operasi Dasarnya
 
-📖 Deskripsi
+# Deskripsi:
 
-Tutorial ini membahas tipe data string dalam Python dan berbagai operasi yang dapat dilakukan untuk memanipulasi string. String adalah salah satu tipe data yang paling sering digunakan dalam pemrograman Python, terutama dalam pemrosesan teks.
+Dalam pembelajaran ini, kita akan mengenal string sebagai salah satu tipe data utama di Python dan memahami berbagai operasi yang bisa dilakukan untuk memanipulasi string. String sering digunakan dalam pemrograman, terutama dalam pemrosesan teks dan komunikasi antar sistem.
 
-🎯 Tujuan Pembelajaran
+# Point Pembahasan:
 
-Setelah menyelesaikan tutorial ini, Anda akan memahami:
+## Cara mendeklarasikan string di Python.
 
-Cara mendeklarasikan string di Python.
+String bisa dideklarasikan dengan:
 
-Berbagai operasi string, seperti penggabungan dan pengulangan.
+- [x] tanda kutip tunggal (')
+- [x] tanda kutip ganda (")
+- [x] tanda tiga kutip (''' atau """) untuk multi-line string
+
+## Operasi string (penggabungan, pengulangan)
+
+- [x] Penggabungan menggunakan operator + , f-string, format() atau .join().
+- [x] Pengulangan menggunakan operator \*.
+- [ ] Alternatif Pengulangan: Menggunakan Loop (for atau while), Menggunakan List Comprehension dan join().
+
+## Fungsi string seperti upper(), lower(), replace(), split().
+
+- [x] Mengubah huruf besar/kecil: .upper(), .lower().
+- [x] Mengganti teks: .replace().
+- [x] Memecah string menjadi list: .split().
+
+## Format string menggunakan f-string dan .format().
+
+- [x] f-string (f"...") adalah cara modern dan lebih cepat untuk format string.
+- [x] .format() adalah alternatif yang lebih kompatibel untuk versi Python lama.
 
 Fungsi manipulasi string seperti upper(), lower(), replace(), dan split().
 
